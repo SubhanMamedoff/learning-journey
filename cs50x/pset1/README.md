@@ -8,7 +8,7 @@ The problems in this set focus on **C programming fundamentals**, including cond
 ## Problems
 
 ### 1. Hello
-- **File:** `hello/hello.c`  
+- **File:** [`me/hello.c`](./me/hello.c)  
 - **Description:**  
   A simple program that asks for the user’s name and then greets them with `"hello, <name>"`.  
 - **Concepts:** Basic C syntax, standard input/output, strings.
@@ -16,7 +16,7 @@ The problems in this set focus on **C programming fundamentals**, including cond
 ---
 
 ### 2. Mario (More)
-- **File:** `mario/more/mario.c`  
+- **File:** [`mario/mario.c`](./mario/mario.c)  
 - **Description:**  
   Prints a full pyramid of hashes (`#`) of a user-specified height, mimicking the pyramid design in Nintendo’s *Super Mario Bros.*.  
 - **Concepts:** Loops, nested loops, conditionals.
@@ -24,7 +24,7 @@ The problems in this set focus on **C programming fundamentals**, including cond
 ---
 
 ### 3. Cash
-- **File:** `cash/cash.c`  
+- **File:** [`cash/cash.c`](./cash/cash.c)  
 - **Description:**  
   Implements a greedy algorithm to calculate the minimum number of coins required to make change for a given amount in U.S. currency.  
 - **Concepts:** Greedy algorithms, arithmetic, loops.
@@ -32,7 +32,7 @@ The problems in this set focus on **C programming fundamentals**, including cond
 ---
 
 ### 4. Credit
-- **File:** `credit/credit.c`  
+- **File:** [`credit/credit.c`](./credit/credit.c)  
 - **Description:**  
   Checks whether a credit card number is valid using **Luhn’s algorithm**, and determines the card type (AMEX, VISA, MasterCard).  
 - **Concepts:** Loops, conditionals, algorithms, modular arithmetic.

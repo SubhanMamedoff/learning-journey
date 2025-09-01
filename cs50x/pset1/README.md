@@ -1,4 +1,4 @@
-# CS50x: Problem Set 1
+# CS50x: Problem Set 1 
 
 This directory contains my solutions to **Problem Set 1** of Harvard's CS50x (Introduction to Computer Science) course.  
 The problems in this set focus on **C programming fundamentals**, including conditionals, loops, functions, and user input.

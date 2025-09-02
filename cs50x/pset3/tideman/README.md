@@ -40,8 +40,11 @@ The system records **pairwise preferences** between candidates and locks in vict
 
 preferences\[winner]\[loser] - preferences\[loser]\[winner]
 
+* **Implementation detail:** Uses **selection sort** to order the pairs.
 
-- Sorting ensures the strongest victories are locked first.
+  * Iterates through the list to find the maximum margin.
+  * Swaps pairs to place the strongest victories first.
+* Sorting ensures the strongest victories are locked into the graph first, maintaining the correctness of the algorithm.
 
 ### 5. `lock_pairs`
 - Lock pairs into the `locked` graph in order of decreasing strength.  

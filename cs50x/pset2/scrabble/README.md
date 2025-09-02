@@ -16,15 +16,9 @@ It simulates a simple version of the Scrabble game, where two players enter word
 ## Letter Values
 The following values are used for each letter:
 
-| Letters                  | Points |
-|---------------------------|--------|
-| A, E, I, L, N, O, R, S, T, U | 1 |
-| D, G                       | 2 |
-| B, C, M, P                 | 3 |
-| F, H, V, W, Y              | 4 |
-| K                          | 5 |
-| J, X                       | 8 |
-| Q, Z                       | 10 |
+| Letter | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q  | R | S | T | U | V | W | X | Y | Z  |
+|--------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|----|---|---|---|---|---|---|---|---|----|
+| Points | 1 | 3 | 3 | 2 | 1 | 4 | 2 | 4 | 1 | 8 | 5 | 1 | 3 | 1 | 1 | 3 | 10 | 1 | 1 | 1 | 1 | 4 | 4 | 8 | 4 | 10 |
 
 ---
 

@@ -11,10 +11,9 @@ The task is to write a program that:
 - Counts the number of **letters**, **words**, and **sentences**,
 - Calculates the readability score using the Coleman–Liau formula:
 
-\[
-\text{index} = 0.0588 \times L - 0.296 \times S - 15.8
-\]
-
+```
+index = 0.0588 \times L - 0.296 \times S - 15.8 $
+```
 Where:
 - **L** = average number of letters per 100 words  
 - **S** = average number of sentences per 100 words  
@@ -39,7 +38,7 @@ The program then outputs:
 1. Compile the program:
    ```bash
    make readability
-````
+   ```
 
 2. Run the program and enter/paste some text:
 

@@ -1,4 +1,4 @@
-CS50x – Problem Set 4: Volume
+# CS50x – Problem Set 4: Volume
 
 This program modifies the **volume of a WAV audio file** by scaling its samples with a user-provided factor.  
 It is part of **Problem Set 4** in Harvard's CS50x course.

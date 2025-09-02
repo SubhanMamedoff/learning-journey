@@ -9,7 +9,7 @@ Problem Set 3 focuses on **algorithms, data structures, and problem-solving in C
 
 Each problem is contained in its own folder. Click the folder names to view the source code:
 
-1. **[Sort](sort/sort.c)** – Implements sorting algorithms to reorder arrays of integers.  
+1. **[Sort](sort/answers.txt)** – Implements sorting algorithms to reorder arrays of integers.  
 2. **[Plurality](plurality/plurality.c)** – Implements a simple voting system to determine the winner of an election.  
 3. **[Runoff](runoff/runoff.c)** – Implements a runoff election algorithm with multiple rounds of voting.  
 4. **[Tideman](tideman/tideman.c)** – Implements the Tideman (ranked pairs) voting algorithm.

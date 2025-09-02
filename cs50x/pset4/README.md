@@ -1,7 +1,7 @@
 # CS50x – Problem Set 4: Audio and File Manipulation
 
 This directory contains my solutions to **Problem Set 4** of Harvard's CS50x (Introduction to Computer Science) course.  
-Problem Set 4 focuses on **audio processing** and **file manipulation**, reinforcing skills in arrays, pointers, and working with binary data in C.
+Problem Set 4 focuses on **audio processing** and **file manipulation**, reinforcing skills in arrays, pointers, and working with binary data in C. 
 
 ---
 

@@ -3,7 +3,7 @@
 This directory contains my solutions for **Problem Set 5** of Harvard’s CS50x course.
 The set focuses on **data structures, memory management, and file handling** in C.
 
-All problems were implemented in **C**, using **structs, pointers, arrays, and dynamic memory** where appropriate.
+All problems were implemented in **C**, using **structs, pointers, arrays, and dynamic memory** where appropriate. 
 
 ---
 

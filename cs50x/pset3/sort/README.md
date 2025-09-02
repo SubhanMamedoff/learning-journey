@@ -29,7 +29,7 @@ Your task:
 ---
 
 ## 📄 Results
-The results of the analysis are documented in the file [answer.txt](answer.txt). Please refer to that file for details on which program uses which sorting algorithm.
+The results of the analysis are documented in the file [answer.txt](answers.txt). Please refer to that file for details on which program uses which sorting algorithm.
 
 ---
 

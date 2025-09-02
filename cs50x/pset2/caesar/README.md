@@ -14,11 +14,9 @@ The task is to write a program that:
 
 **Example:**
 ```
-
-\$ ./caesar 3
+$ ./caesar 3
 plaintext:  HELLO
 ciphertext: KHOOR
-
 ````
 
 ---

@@ -12,7 +12,7 @@ The task is to write a program that:
 - Calculates the readability score using the Coleman–Liau formula:
 
 ```
-index = 0.0588 \times L - 0.296 \times S - 15.8 $
+index = 0.0588 * L - 0.296 * S - 15.8
 ```
 Where:
 - **L** = average number of letters per 100 words  

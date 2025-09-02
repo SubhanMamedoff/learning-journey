@@ -36,7 +36,7 @@ ciphertext: KHOOR
 1. Compile the program:
    ```bash
    make caesar
-````
+   ```
 
 2. Run the program with a numeric key:
 

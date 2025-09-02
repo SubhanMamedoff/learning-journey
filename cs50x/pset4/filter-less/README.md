@@ -38,7 +38,7 @@ The program reads an input BMP image, applies the selected filter, and writes th
 
 sepiaRed   = 0.393*R + 0.769*G + 0.189*B
 sepiaGreen = 0.349*R + 0.686*G + 0.168*B
-sepiaBlue  = 0.272*R + 0.534*G + 0.131\*B
+sepiaBlue  = 0.272*R + 0.534*G + 0.131*B
 
 ````
 - Cap each value at 255.  

@@ -1,7 +1,7 @@
 # CS50x: Problem Set 3
 
 This directory contains my solutions to **Problem Set 3** of Harvard's CS50x (Introduction to Computer Science) course.  
-Problem Set 3 focuses on **algorithms, data structures, and problem-solving in C**.
+Problem Set 3 focuses on **algorithms, data structures, and problem-solving in C**. 
 
 ---
 

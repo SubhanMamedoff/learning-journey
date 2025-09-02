@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
-int count_letters(string text, int length);
+int count_letters(string text, int length); 
 int count_words(string text, int length);
 int count_sentences(string text, int length);
 int main(void)

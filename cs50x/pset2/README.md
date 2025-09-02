@@ -1,7 +1,7 @@
 # CS50x: Problem Set 2
 
 This directory contains my solutions to **Problem Set 2** of Harvard's CS50x (Introduction to Computer Science) course.  
-The problems in this set focus on **more advanced C programming**, including strings, arrays, and algorithms.
+The problems in this set focus on **more advanced C programming**, including strings, arrays, and algorithms. 
 
 ---
 

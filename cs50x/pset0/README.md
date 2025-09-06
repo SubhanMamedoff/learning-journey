@@ -43,8 +43,7 @@ Score as many goals as possible by shooting the ball into the net while the goal
 ---
 
 ## 📸 Screenshots
-👉 *(Add a screenshot or GIF of the game here — visuals catch attention quickly!)*  
-
+![ScreenShot](./screenshot.png)
 ---
 
 ## 📌 What I Learned
